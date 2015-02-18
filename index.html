@@ -1,0 +1,63 @@
+<!doctype html>
+
+<!--
+The MIT License (MIT)
+Copyright (c) 2015 Franco Cavestri
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+-->
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Guess The Movie</title>
+  <meta name="description" content="Guess The Movie Game">
+  <meta name="author" content="Franco Cavestri">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:600,800' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type='text/css' href="css/main.css">
+
+</head>
+
+<body>
+  <div id="logo">
+    <img src="img/logo.jpg" />
+  </div>
+  <div id="container">
+    <div id="menu">
+      <span id="app"></span>
+      <span id="stage"></span>
+      <span id="points"></span>
+      <span id="movs"></span>
+    </div>
+    <div id="controls">
+      <span id="next" class="hide">Next</span>
+    </div>
+    <div id="pic">
+      <img id="poster" src="">
+      <img id="loader" class="show" src="img/loading.gif" />
+    </div>
+    <div id="letters">
+      <ul id="letters_list">
+      </ul>
+      <div id="success" class="hide">Great! Press next for another movie.</div>
+      <div id="error" class="hide">Error, please reload the page to keep playing!</div>
+    </div>
+    <div id="result">
+      <ul id="result_list">
+      </ul>
+    </div>
+  </div>
+  <div id="copy">
+    <a href="http://codenatic.com">&copy Franco Cavestri</a>
+  </div>
+  <script src="js/themoviedb.min.js"></script>
+  <script src="js/game.js"></script>
+</body>
+</html>

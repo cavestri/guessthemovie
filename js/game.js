@@ -14,7 +14,7 @@ IN THE SOFTWARE.
 var Trivia = {};
 
 Trivia.Game = function () {
-  this.key = "3d197569c7f13f60d61a7d61d5c83427";
+  this.key = "<your-api>";
   this.tmdb = theMovieDb;
   this.movies = [];
   this.image_size = "w500";

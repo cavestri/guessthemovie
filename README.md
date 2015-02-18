@@ -5,6 +5,11 @@ A funny game where the objective is guess the movie using an image.
 
 I have made this Movie game just for fun, i'm pretty sure that the logic can be improved a lot but...
 
+SETUP
+=====
+
+If you want to mount your own game you will need an API-KEY from **TMDB**, you can ask for one in their forums, then just update the game.js file and assign your API-KEY to the **this.key** variable at the beginning of the file.
+  
 Usage
 =====
 

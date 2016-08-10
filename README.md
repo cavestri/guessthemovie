@@ -1,7 +1,7 @@
 Guess The Movie
 =================================
 
-![Guess The Movie](http://codenatic.com/blog/wp-content/uploads/2015/02/guessthemovie-766x510.jpg "Awesome Movie Game!")
+![Guess The Movie](http://codenatic.com/wp-content/uploads/2016/01/guessthemovie.jpg "Awesome Movie Game!")
 
 A funny game where the objective is guess the movie using an image.
 

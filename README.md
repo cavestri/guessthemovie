@@ -1,7 +1,7 @@
 Guess The Movie
 =================================
 
-![Guess The Movie](http://codenatic.com/wp-content/uploads/2016/01/guessthemovie.jpg "Awesome Movie Game!")
+![Guess The Movie](https://raw.githubusercontent.com/cavestri/guessthemovie/master/guessthemovie.JPG "Awesome Movie Game!")
 
 A funny game where the objective is guess the movie using an image.
 
@@ -20,14 +20,14 @@ Click on the letters to create the correct title, if you have a mistake, click o
 On Line Version
 =============
 
-You can check a live version [here](http://codenatic.com/projects/guessthemovie/)
+You can check a live version [here](http://codenatic.com/demos/guessthemovie/)
 
 Licence
 =======
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Franco Cavestri
+Copyright (c) 2017 Franco Cavestri
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -17,11 +17,6 @@ Usage
 
 Click on the letters to create the correct title, if you have a mistake, click on the title letter to undo it!
 
-On Line Version
-=============
-
-You can check a live version [here](http://codenatic.com/demos/guessthemovie/)
-
 Licence
 =======
 

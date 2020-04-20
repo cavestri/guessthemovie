@@ -7,6 +7,8 @@ A funny game where the objective is guess the movie using an image.
 
 I have made this Movie game just for fun, i'm pretty sure that the logic can be improved a lot but...
 
+**DEMO**: https://askfranco.com/demos/guessthemovie/
+
 SETUP
 =====
 
